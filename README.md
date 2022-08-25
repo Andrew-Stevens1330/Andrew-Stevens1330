@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew Stevens
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript, HTML5, CSS
+- 🌱 I’m currently learning Javascript, HTML5, CSS, React, Node.js
 - 💞️ I’m looking to collaborate on Javascript projects to have a better understanding of the Stack
 - 📫 How to reach me Andrew.Stevens1330@gmail.com
 
